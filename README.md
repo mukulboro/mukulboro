@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukul Aryal
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript.
 - 📫 How to reach me: mukul.development@gmail.com
 
 <!---
