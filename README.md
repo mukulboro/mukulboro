@@ -1,9 +1,9 @@
 <h1 align="center">Namaste 🙏🏼, I'm Mukul Aryal</h1>
 <h3 align="center">A Passionate Computer Science Student from Kathmandu, Nepal</h3>
 
-- 🔭 I’m currently working on **Nepali News Aggregation**
+- 🔭 I’m currently working on **Vision Transformers**
 
-- 🌱 I’m currently learning **Golang, IoT**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Any research or development projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mukul.development@gmail.com**
 
-- 📄 Know about my experiences [https://www.mukul.com.np/assets/resume.pdf](https://www.mukul.com.np/assets/resume.pdf)
+- 📄 Know about my experiences [https://www.mukul.com.np/resume.pdf](https://www.mukul.com.np/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
