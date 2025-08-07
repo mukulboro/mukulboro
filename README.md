@@ -1,9 +1,9 @@
 <h1 align="center">Namaste 🙏🏼, I'm Mukul Aryal</h1>
 <h3 align="center">A Passionate Computer Science Student from Kathmandu, Nepal</h3>
 
-- 🔭 I’m currently working on **Vision Transformers**
+- 🔭 I’m currently working on **LLM Finetuning**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning about **TTS and STT Systems**
 
 - 👯 I’m looking to collaborate on **Any research or development projects**
 
