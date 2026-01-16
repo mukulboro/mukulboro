@@ -5,8 +5,8 @@
 - 🔭 I’m a L1 Software Engineer at Vivasoft Nepal<br><br>
 - 🌱 I’m currently working on AI product development<br><br>
 - 👯 I’m looking to collaborate on Any research projects<br><br>
-- 📝 I (sometimes) write articles on https://blog.mukul.com.np/<br><br>💬
-- Ask me about AI product development, backend systems, automation, and mobile applications<br><br>
+- 📝 I (sometimes) write articles on https://blog.mukul.com.np/<br><br>
+- 💬 Ask me about AI product development, backend systems, automation, and mobile applications<br><br>
 - 📫 How to reach me mukul.development@gmail.com<br><br>
 - 📄 Know about my experiences https://www.mukul.com.np/resume.pdf
 
